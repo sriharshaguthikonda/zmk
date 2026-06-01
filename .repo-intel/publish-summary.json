@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/zmk",
+    "generatedAt":  "2026-06-01T06:13:09.8507378Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  1,
+    "totalBytes":  3580184,
+    "maps":  [
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "1f772d1c0b9c283a78d4435b3c46f67dcb1ed76b",
+                     "path":  ".repo-intel/branches/remote-origin/main__1f772d1c0b9c/repo-map-full.json",
+                     "bytes":  3576784
+                 }
+             ]
+}
